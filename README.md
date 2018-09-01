@@ -1,4 +1,4 @@
-# lere
+# Lerê - In-Book
 
 > A Vue.js project
 
